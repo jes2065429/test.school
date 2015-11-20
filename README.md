@@ -5,3 +5,4 @@ This is a test repository.
 2. Cats are not cool
 3. I like git.
 
+New branch named fun
